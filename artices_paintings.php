@@ -13,9 +13,15 @@
                                 <div class="col-md-4"><img src="images/acrylic2%20art.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
                                 <div class="col-md-4"><img src="images/fine%20art.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
                                 <div class="col-md-4"><img src="images/lisa%20art.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
+                                <center><div class="col-md-4">₹2500<br><button type="button" class="btn-add-cart">Add Cart</button></div>
+                                <div class="col-md-4">₹1200<br><button type="button" class="btn-add-cart">Add Cart</button></div>
+                                <div class="col-md-4">₹1000<br><button type="button" class="btn-add-cart">Add Cart</button></div></center>
                                 <div class="col-md-4"><img src="images/acrylic3%20art.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
                                 <div class="col-md-4"><img src="images/full%20moon.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
                                 <div class="col-md-4"><img src="images/lake%20painting.jpg" class="img-thumbnail home_img" alt="Cinque Terre"></div>
+                                <center><div class="col-md-4">₹1600<br><button type="button" class="btn-add-cart">Add Cart</button></div>
+                                <div class="col-md-4">₹1200<br><button type="button" class="btn-add-cart">Add Cart</button></div>
+                                <div class="col-md-4">₹1000<br><button type="button" class="btn-add-cart">Add Cart</button></div></center>
                               </div>
                             </div>
                         </div>

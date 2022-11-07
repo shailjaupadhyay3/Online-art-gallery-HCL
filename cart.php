@@ -23,13 +23,13 @@
 							<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
 						</td>
 						<td>
-							<img src="images/Taj%20Mahal.jpeg" alt="Taj Mahal" class="my_cart_items"/>
+							<img src="images/acrylic5%20art.jpg" alt="Acrylic Painting" class="my_cart_items"/>
 						</td>
 						<td>
-							<p>Taj Mahal</p>
+							<p>Acrylic Painting</p>
 						</td>
 						<td>
-							<p>Rs. 250</p>
+							<p>Rs. 700</p>
 						</td>
 						<td>
 							<div class="input-group q_item_group">
@@ -39,7 +39,31 @@
 							</div>
 						</td>
 						<td>
-							<p>Rs. <span id="total_price">250</span></p>
+							<p>Rs. <span id="total_price">700</span></p>
+						</td>
+					  </tr>
+					  <tr>
+						<td>	
+							<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+						</td>
+						<td>
+							<img src="images/water5%20art.jpg" alt="Deer Painting" class="my_cart_items"/>
+						</td>
+						<td>
+							<p>Deer Painting</p>
+						</td>
+						<td>
+							<p>Rs. 500</p>
+						</td>
+						<td>
+							<div class="input-group q_item_group">
+							  <div class="input-group-addon add" onclick="btnClick('+')">+</div>
+								<center><lable id="q_item" value="1">1</lable></center>
+							  <div class="input-group-addon remove" onclick="btnClick('-')">-</div>
+							</div>
+						</td>
+						<td>
+							<p>Rs. <span id="total_price">500</span></p>
 						</td>
 					  </tr>
 					  <tr>
